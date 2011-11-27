@@ -2,7 +2,7 @@
 
 Name:           plexus-graph
 Version:        0.13.1
-Release:        5
+Release:        7
 Summary:        Graph data structures manipulation library
 
 Group:          Development/Java
