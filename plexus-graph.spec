@@ -7,7 +7,7 @@ Summary:        Graph data structures manipulation library
 
 Group:          Development/Java
 License:        CPL
-URL:            http://plexus.sourceforge.net/
+URL:            https://plexus.sourceforge.net/
 Source0:        http://download.sourceforge.net/plexus/plexus-src-%{version}.tgz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 
